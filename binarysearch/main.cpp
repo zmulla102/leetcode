@@ -42,7 +42,7 @@ public:
 
 int main() {
     std::vector<int> nums = {1,2, 3, 4, 5, 6, 7, 8, 9, 10};
-    int target = 4;
+    int target = 7;
     Solution sol;
 
     int result = sol.search(nums, target);
